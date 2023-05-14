@@ -1,0 +1,39 @@
+body {
+    background-color: #c9ccff;
+    color: #121708; 
+    font-family:'Comfortaa', cursive;
+ 
+}
+h3{ 
+    color: #590000;
+    font-size:20px;
+}
+h1,p{
+    color:#003a91;
+   
+}
+
+img { 
+    width: 300px;
+    height:100px;
+    border-style: solid  ;
+    border-color: blueviolet ;
+    margin: 20px;
+    padding: 20px;
+    padding: 20 px; 
+   
+
+}
+img .img1 { 
+    width: 280 px;
+    height: 180 px;
+
+}
+
+ img .img2{
+    width: 350 px;
+    height: 180 px;
+
+a , small{ 
+    color:;
+}
